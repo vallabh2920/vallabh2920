@@ -15,3 +15,4 @@
   [linkedin]: https://www.linkedin.com/in/vallabh-ingle-a9a0b7206/
 
 
+[![Vallabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallabh2920)](https://github.com/anuraghazra/github-readme-stats)
