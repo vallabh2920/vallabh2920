@@ -3,7 +3,7 @@
 ## I'm a IT Engineering Student and UI/UX devloper
 
 
-- 🌱 I’m currently learning html,css
+- 🌱 I’m currently learning Mern stack 
 - 👯 I’m looking to collaborate on with other content creator
 - 😄 Pronouns: He/him
 - 📫 How to reach me:
