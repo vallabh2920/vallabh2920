@@ -11,7 +11,7 @@
   [<img align="left" alt="vallabh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="vallabh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-  [instagram]: https://instagram.com/vallabh2920
+  [instagram]: https://www.instagram.com/vallabh_2920/
   [linkedin]: https://www.linkedin.com/in/vallabh-ingle-a9a0b7206/
 
 
