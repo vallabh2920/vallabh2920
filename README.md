@@ -1,6 +1,6 @@
 ### Hi there, I'm Vallabh Ingle 👋 👋
 
-## I'm a IT Engineering Student and UI/UX devloper
+## I'm a IT Engineering Student and UI/UX Designer & Devloper
 
 
 - 🌱 I’m currently learning Mern stack 
