@@ -1,18 +1,16 @@
 ### Hi there, I'm <a href="https://vallabh.vercel.app">Vallabh Ingle</a> 👋 👋
 
-## I'm a IT Engineering Student and UI/UX Designer & Devloper
+## I'm a Software Development Engineer
 
-
-- 🌱 I’m currently learning Mern stack 
 - 👯 I’m looking to collaborate on with other content creator
 - 😄 Pronouns: He/him
 - 📫 How to reach me:
  
-  [<img align="left" alt="vallabh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="vallabh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  [<img align="left" alt="Vallabh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+  [<img align="left" alt="Vallabh | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
   [instagram]: https://www.instagram.com/vallabh_2920/
-  [linkedin]: https://www.linkedin.com/in/vallabh-ingle-a9a0b7206/
+  [linkedin]: https://www.linkedin.com/in/vallabh-ingle/
 
 <br>
 <br>
