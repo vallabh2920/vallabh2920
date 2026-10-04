@@ -14,7 +14,7 @@
 
 <br/>
 
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/vallabh-ingle) · [Portfolio](#) · [Email](#inglevallabh36@gmail.com)
 
 </div>
 
