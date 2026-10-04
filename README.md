@@ -198,13 +198,12 @@ My focus extends beyond UI development into **architecture, state management, pe
 
 <div align="center">
 
-<!-- Add GitHub statistics widgets after your profile repositories are established -->
+<img src="https://github-readme-stats.vercel.app/api?username=vallabh2920&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallabh2920&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 
-**GitHub Stats**
+<br />
 
-**Top Languages**
-
-**Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vallabh2920&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
