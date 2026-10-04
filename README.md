@@ -126,7 +126,7 @@ A production-level recruitment application built with **React Native CLI**, with
 
 ### Project Scale
 
-> **100K+ downloads on Google Play Store**
+> **500K+ downloads on Google Play Store**
 
 **Store:** [Play Store URL]
 
@@ -320,13 +320,13 @@ Production Engineering
 
 ### Let's build something meaningful.
 
-**LinkedIn:** [LinkedIn URL]
+**LinkedIn:** [https://www.linkedin.com/in/vallabh-ingle]
 
-**Portfolio:** [Portfolio URL]
+**Portfolio:** [https://www.linkedin.com/in/vallabh-ingle]
 
-**Email:** [Email]
+**Email:** [inglevallabh36@gmail.com]
 
-**GitHub:** [GitHub Profile]
+<!-- **GitHub:** [GitHub Profile] -->
 
 **Location:** Navi Mumbai / Panvel, Maharashtra, India
 
