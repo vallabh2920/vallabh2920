@@ -203,7 +203,7 @@ My focus extends beyond UI development into **architecture, state management, pe
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vallabh2920&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vallabh2920&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" /> -->
 
 </div>
 
